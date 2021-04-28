@@ -1,3 +1,5 @@
+# Balanced Bagging (blagging) 
+
 An example of blagging.
 
-![](samplingUnderBag.png)
+![](samplingUnderMany.png)
